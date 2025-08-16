@@ -1,4 +1,4 @@
-# Imaginary Google Website
+#  Google Website
 
 ## Overview
 This project is a simple web application that mimics the Google homepage. It features a blurred background with the Google logo centered. Clicking the logo simulates a connection to browsing by redirecting to the official Google search page.
